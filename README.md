@@ -1,2 +1,4 @@
-# cf
-codefight solutions
+## Brushing up on some stuff!
+
+Directories
+* codefights
